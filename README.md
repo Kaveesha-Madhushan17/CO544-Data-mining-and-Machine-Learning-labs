@@ -1,1 +1,1 @@
-# CO544---Data-mining-and-Machine-Learning-
+# CO544-Data-mining-and-Machine-Learning-Labs
